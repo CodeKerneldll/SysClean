@@ -22,8 +22,3 @@ Perfeito para deixar seu PC mais rápido, sem complicação e sem instalar nada 
 ### Windows (.exe)
 1. Abra o arquivo `SysClean.exe` pronto que está na pasta `dist`  
 2. Clique em **Limpar** e pronto!
-
-### Python (opcional)
-1. Clone o repositório:  
-```bash
-git clone https://github.com/SEUUSUARIO/SysClean.git
